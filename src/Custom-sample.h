@@ -457,7 +457,7 @@ static const char DATA_ESPEASY_DEFAULT_MIN_CSS[] PROGMEM = {
 
 // #define USES_P080   // iButton Sensor  DS1990A
 // #define USES_P081   // Cron
-// #define USES_P082   // GPS
+#define USES_P082   // GPS
 // #define USES_P083   // SGP30 TVOC
 // #define USES_P084   // VEML6070
 // #define USES_P085   // AcuDC24x
@@ -607,3 +607,4 @@ static const char DATA_ESPEASY_DEFAULT_MIN_CSS[] PROGMEM = {
 
 
 #endif // ESPEASY_CUSTOM_H
+
