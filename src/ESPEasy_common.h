@@ -6,7 +6,7 @@
 // *****************************************************************************************
 // For Arduino IDE users:
 // When building using Custom.h, uncomment the next line:
-//#define USE_CUSTOM_H
+#define USE_CUSTOM_H
 // *****************************************************************************************
 
 
